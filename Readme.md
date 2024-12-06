@@ -8,3 +8,7 @@ https://openclassrooms.com/en/courses/7137776-securisez-votre-application-web-av
 
 ## Utilisez Spring Data pour interagir avec vos bases de données
 https://openclassrooms.com/en/courses/6982461-utilisez-spring-data-pour-interagir-avec-vos-bases-de-donnees
+
+## Développeur:
+- git: mouhameddiouf
+- email: seydiahmedelcheikh@gmail.com
